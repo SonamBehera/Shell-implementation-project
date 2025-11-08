@@ -1,8 +1,5 @@
 
-  // custom_shell.cpp
-// Complete shell: Day1-5 base + advanced features (auth, history, !!, exec time,
-// setenv/printenv, whoami, colored output, readline tab/arrow keys).
-// Compile (macOS): g++ -std=c++17 custom_shell.cpp -o custom_shell -I/usr/local/opt/readline/include -L/usr/local/opt/readline/lib -lreadline
+
 
 #include <iostream>
 #include <sstream>
